@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://ath.pub/athapp/ios/CN25-ATH-0.ipa</string>
+                        <string>http://ath.pub/athapp/ios/iPhone.ATH_resigned.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,7 +33,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.domainname</string>
+                    <string>com.domainname.athnew</string>
                     <key>bundle-version</key>
                     <string>1.1</string>
                     <key>kind</key>
